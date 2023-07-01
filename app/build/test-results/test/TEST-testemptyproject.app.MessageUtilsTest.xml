@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MessageUtils Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-01T07:52:46" hostname="DISMAS" time="0.025">
+  <properties/>
+  <testcase name="Test getMessage()" classname="testemptyproject.app.MessageUtilsTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

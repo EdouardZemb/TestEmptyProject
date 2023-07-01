@@ -21,4 +21,4 @@ jobs:
 
       - name: Build and test
         run: |
-          gradle test
+          gradle test --distribution=plain
